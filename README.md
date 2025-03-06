@@ -1,6 +1,16 @@
 # sistemademedi-o2.0
 Sistema de Monitoramento de Água
-Thought for 3 seconds### Explicações sobre as Mudanças no Sistema de Monitoramento de Água
+
+
+![image](https://github.com/user-attachments/assets/61f62382-2a9c-429b-8eb6-7befaf961b95)
+
+
+
+![image](https://github.com/user-attachments/assets/e0944bcf-ce6b-43e7-ab7e-9e034a2b6b2c)
+
+
+
+
 
 ## 1. Adição do Monitoramento da Caixa d'Água
 
