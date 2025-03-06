@@ -1,0 +1,26 @@
+Arduino Water Flow Meter - Circuit Connections
+
+Flow Sensor (YF-S201):
+- Red wire: 5V
+- Black wire: GND
+- Yellow wire: Digital Pin 2 (Interrupt)
+
+LCD Display (16x2 with I2C):
+- VCC: 5V
+- GND: GND
+- SDA: Arduino A4 (SDA)
+- SCL: Arduino A5 (SCL)
+
+Buttons:
+- Mode Button: Digital Pin 3 to GND (with internal pull-up)
+- Up Button: Digital Pin 4 to GND (with internal pull-up)
+- Down Button: Digital Pin 5 to GND (with internal pull-up)
+
+Buzzer:
+- Positive: Digital Pin 6
+- Negative: GND
+
+LEDs:
+- Green LED: Digital Pin 7 (with 220Ω resistor) to GND
+- Red LED: Digital Pin 8 (with 220Ω resistor) to GND
+
